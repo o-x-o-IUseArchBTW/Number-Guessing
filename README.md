@@ -1,6 +1,9 @@
 # Number-Guessing
 A simple number guessing game made in the **c** programming language, 
 A great example for people who want to learn the **c** programming language
+# How to setup
+ - Just compile it
+ - Then run the compiled file
 # You get 10 try's to guess a number between 1 and 100 with only higher or lower,  Can you guess the number?
  - It outputs whether the number it higher or lower than the guess,
  - Its limited to 10 guesses and says which guess your on.
