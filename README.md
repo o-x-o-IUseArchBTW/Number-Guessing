@@ -2,8 +2,8 @@
 A simple number guessing game made in the **c** programming language, 
 A great example for people who want to learn the **c** programming language
 # How to setup
- - Just compile it
- - Then run the compiled file
+ - Just compile it using somthing like gnu's c compiler or make FILENAME -.c in vscode or any other c compiler
+ - Then run the compiled file often ./FILENAME note: this does not need .c after it since compiled file's aren't *usualy* appended by .c
 # You get 10 try's to guess a number between 1 and 100 with only higher or lower,  Can you guess the number?
  - It outputs whether the number it higher or lower than the guess,
  - Its limited to 10 guesses and says which guess your on.
