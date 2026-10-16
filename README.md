@@ -2,7 +2,7 @@
 A simple number guessing game made in the **c** programming language, 
 A great example for people who want to learn the **c** programming language
 # How to setup
- - Just compile it using make FILENAME -.c in vscode or any other c compiler
+ - Just compile it using make FILENAME -.c in vscode or just use any other c compiler
  - Then run the compiled file often ./FILENAME note: this does not need .c after it since compiled file's aren't *usually* appended by .c
 # You get 10 tries to guess a number between 1 and 100 with only higher or lower,  Can you guess the number?
  - It outputs whether the number it higher or lower than the guess,
