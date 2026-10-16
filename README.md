@@ -1,9 +1,10 @@
 # Number-Guessing
-A simple number guessing game made in the **c** programming language, 
-A great example for people who want to learn the **c** programming language
-# How to setup
- - Just compile it using make FILENAME -.c in vscode or just use any other c compiler
- - Then run the compiled file often ./FILENAME note: this does not need .c after it since compiled file's aren't *usually* appended by .c
+A simple number guessing game made in the **C** programming language, 
+A great example for people who want to learn the **C** programming language.
+# How to use
+- Clone this repo or download the source code, then open the folder in VS Code.
+- Open the terminal and compile it with `gcc main.c -o main`.
+- Run the game with `./main`.
 # You get 10 tries to guess a number between 1 and 100 with only higher or lower,  Can you guess the number?
  - It outputs whether the number it higher or lower than the guess,
  - Its limited to 10 guesses and says which guess your on.
