@@ -7,7 +7,7 @@ int main(void)
 		srand(time(NULL));
 		int secret = rand() % 100 + 1;
 		int guess = 0;
-		printf("Welcome to Number Guessing, Where you have 10 try's to guess a number!\n");
+		printf("Welcome to Number Guessing, Where you have 10 tries to guess a number!\n");
 		printf("I'm thinking of a number between 1 and 100!\n\n");
 		for (int i = 1; i < 11; i++)
 		{
