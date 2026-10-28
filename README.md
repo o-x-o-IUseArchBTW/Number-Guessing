@@ -2,7 +2,7 @@
 A simple number guessing game made in the **C** programming language, 
 A great example for people who want to learn the **C** programming language.
 # How to use
-- Clone this repo or download the source code, then open the folder in VS Code.
+- Clone this repo or download the source code, then open the folder in VS Code / Terminal on linux.
 - Open the terminal and compile it with `gcc main.c -o main`.
 - Run the game with `./main`.
 # You get 10 tries to guess a number between 1 and 100 with only higher or lower,  Can you guess the number?
